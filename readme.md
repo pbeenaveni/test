@@ -1,2 +1,2 @@
-###Parikshith
-	*This is mu name.
+###This is read me file
+	*This is readme file
